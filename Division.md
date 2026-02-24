@@ -1,3 +1,1 @@
-−20÷5=−4
-
-Explanation: 5 goes into -20 exactly 4 times in the negative direction, so the result is -4.
+The division of integers works by doing division as normal and then applying the sign rule. Ex: 12/-4=-3
